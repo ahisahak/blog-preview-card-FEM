@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/ahisahak/blog-preview-card-FEM)
-- Live Site URL: [Add live site URL here](https://ahisahak.github.io/blog-preview-card-FEM/)
+- Solution URL: [Link to github repo](https://github.com/ahisahak/blog-preview-card-FEM)
+- Live Site URL: [Link to live site](https://ahisahak.github.io/blog-preview-card-FEM/)
 
 ## My process
 
