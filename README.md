@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/ahisahak/blog-preview-card-FEM)
+- Live Site URL: [Add live site URL here](https://ahisahak.github.io/blog-preview-card-FEM/)
 
 ## My process
 
@@ -53,8 +53,8 @@ I want to continue learning about CSS properties and how to use them effectively
 
 ## Author
 
-- Website - [Abdul Hafiz](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Website - [Abdul Hafiz](https://github.com/ahisahak)
+- Frontend Mentor - [@ahisahak](https://www.frontendmentor.io/profile/ahisahak)
 
 
 ## Acknowledgments
